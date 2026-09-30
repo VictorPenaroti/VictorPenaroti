@@ -132,6 +132,3 @@ UNIP — Universidade Paulista
 <img src="https://komarev.com/ghpvc/?username=VictorPenaroti&color=7b2cbf&style=flat-square&label=Visualizações+do+perfil" />
 
 </div>
----
-
-

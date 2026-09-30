@@ -135,7 +135,7 @@ UNIP — Universidade Paulista
 </div>
 ---
 
-Minhas contribuições
+## Minhas contribuições
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/VictorPenaroti/VictorPenaroti/output/github-snake.svg" alt="Snake animation" width="100%" />

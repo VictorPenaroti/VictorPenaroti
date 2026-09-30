@@ -133,3 +133,11 @@ UNIP — Universidade Paulista
 <img src="https://komarev.com/ghpvc/?username=VictorPenaroti&color=7b2cbf&style=flat-square&label=Visualizações+do+perfil" />
 
 </div>
+---
+
+Minhas contribuições
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VictorPenaroti/VictorPenaroti/output/github-snake.svg" alt="Snake animation" width="100%" />
+
+</div>

@@ -98,14 +98,14 @@ Implementação de algoritmos, estruturas de dados e conceitos de lógica aplica
 - Apoio em atividades administrativas e manutenção de registros corporativos.
 - Desenvolvimento de habilidades de comunicação, organização e resolução de problemas.
 
----
+
 
 ## Formação Acadêmica
 
 **Análise e Desenvolvimento de Sistemas**  
 UNIP — Universidade Paulista
 
----
+
 
 ## Contato
 
@@ -125,7 +125,6 @@ UNIP — Universidade Paulista
 
 </div>
 
----
 
 <div align="center">
 

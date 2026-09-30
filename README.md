@@ -48,9 +48,9 @@ Tenho conhecimentos em **C/C++, Java, Python e SQL**, além de experiência acad
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USUARIO_DO_VICTOR&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorPenaroti&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO_DO_VICTOR&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPenaroti&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
 
 </div>
 
@@ -60,7 +60,7 @@ Tenho conhecimentos em **C/C++, Java, Python e SQL**, além de experiência acad
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USUARIO_DO_VICTOR/USUARIO_DO_VICTOR/output/github-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/VictorPenaroti/VictorPenaroti/output/github-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
 
@@ -120,7 +120,7 @@ UNIP — Universidade Paulista
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/USUARIO_DO_VICTOR">
+<a href="https://github.com/VictorPenaroti">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 

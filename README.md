@@ -63,6 +63,7 @@ Tenho conhecimentos em **C/C++, Java, Python e SQL**, além de experiência acad
 <img src="https://raw.githubusercontent.com/VictorPenaroti/VictorPenaroti/output/github-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
+
 ---
 
 ## Projetos em Destaque
